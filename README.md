@@ -1,4 +1,4 @@
-# XOutOf10
+# ThisIsEssential
 
 [*For the more popular, expensive and "BIONIC" iPhone X version, go get XOutOf10!*](https://github.com/idoideas/XOutOf10)
 
