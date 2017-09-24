@@ -24,7 +24,7 @@ public class OverlayService extends Service {
     static WindowManager windowManager;
     static View view;
     final double wParam = 1;
-    final double hParam = 0.35;
+    final double hParam = 0.3;
 
     @Override
     public void onCreate() {
