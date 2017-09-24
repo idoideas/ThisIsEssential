@@ -14,7 +14,7 @@ It is a beautifully designed phone. Ceramic back, Edge-to-edge screen, Gorilla G
 
 Well, apparently there is a thing that can go wrong.
 
-Because there are people where camera notches are not acceptable, and will never reach that's in their hands.
+Because there are people who think camera notches are not acceptable, and will never reach the palm of their hands.
 
 And there are people, where this notch is, in fact, ESSENTIAL. Are you one of them?
 
